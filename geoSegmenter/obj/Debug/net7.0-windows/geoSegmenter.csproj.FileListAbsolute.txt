@@ -1,0 +1,15 @@
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\bin\Debug\net7.0-windows\geoSegmenter.exe
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\bin\Debug\net7.0-windows\geoSegmenter.deps.json
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\bin\Debug\net7.0-windows\geoSegmenter.runtimeconfig.json
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\bin\Debug\net7.0-windows\geoSegmenter.dll
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\bin\Debug\net7.0-windows\geoSegmenter.pdb
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\obj\Debug\net7.0-windows\geoSegmenter.csproj.AssemblyReference.cache
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\obj\Debug\net7.0-windows\geoSegmenter.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\obj\Debug\net7.0-windows\geoSegmenter.AssemblyInfoInputs.cache
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\obj\Debug\net7.0-windows\geoSegmenter.AssemblyInfo.cs
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\obj\Debug\net7.0-windows\geoSegmenter.csproj.CoreCompileInputs.cache
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\obj\Debug\net7.0-windows\geoSegmenter.dll
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\obj\Debug\net7.0-windows\refint\geoSegmenter.dll
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\obj\Debug\net7.0-windows\geoSegmenter.pdb
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\obj\Debug\net7.0-windows\geoSegmenter.genruntimeconfig.cache
+E:\UNIPAMPA\GEOFISICA\8sem\GEOSEGMENTER\geoSegmenter\obj\Debug\net7.0-windows\ref\geoSegmenter.dll
